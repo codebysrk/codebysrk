@@ -49,14 +49,14 @@
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project                                                                       | Description                                                    | Tech Stack         |
-| :---------------------------------------------------------------------------- | :------------------------------------------------------------- | :----------------- |
-| **[Femworld](https://github.com/codebysrk/femworld)**                         | A clone of the Femworld website alongside custom enhancements. | HTML, CSS, JS      |
-| **[Calculator](https://github.com/codebysrk/Calculator)**                     | A simple, functional calculator web application.               | HTML, CSS, JS      |
-| **[Realtime Device Track](https://github.com/codebysrk/RealtimeDeviceTrack)** | Real-time device tracking application.                         | Node.js, Socket.io |
-| **[Virtual Piano](https://github.com/codebysrk/virtual-piano)**               | An interactive virtual piano for the web.                      | HTML, CSS, JS      |
+| Project                                                             | Description                                                 | Tech Stack    |
+| :------------------------------------------------------------------ | :---------------------------------------------------------- | :------------ |
+| **[Reelify](https://github.com/codebysrk/reelify)**                 | A modern short video platform inspired by Instagram Reels.  | HTML, CSS, JS |
+| **[Sheryians Clone](https://github.com/codebysrk/Sheryians-clone)** | Responsive clone of Sheryians Coding School website.        | HTML, CSS, JS |
+| **[Apple Clone](https://github.com/codebysrk/apple-clone)**         | Pixel-perfect recreation of the Apple homepage.             | HTML, CSS, JS |
+| **[Tally Counter](https://github.com/codebysrk/tally-counter)**     | Beautifully designed digital counter with calculator style. | HTML, CSS, JS |
 
 <br/>
 
