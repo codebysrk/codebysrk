@@ -1,108 +1,110 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://github.com/codebysrk" target="_blank">Shahrukh Khan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Specialist;Open+Source+Enthusiast;Always+Learning...)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20Shahrukh%20Khan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62)
 
 <br/>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=codebysrk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<br/>
-
-## 💫 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=codebysrk&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Stars](https://img.shields.io/github/stars/codebysrk?style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/codebysrk?style=for-the-badge&color=blueviolet)
 
 </div>
 
-- 🔭 I’m currently working on **Frontend projects using HTML, CSS, JavaScript, and building custom UI components.**
-- 👯 I’m looking to collaborate on **Open-source frontend projects, UI/UX improvements, and small web apps.**
-- 🤝 I’m looking for help with **Advanced JavaScript patterns and performance optimization.**
-- 🌱 I’m currently learning **Modern JavaScript, React basics, and better CSS architecture.**
-- 💬 Ask me about **Frontend development, custom video players, and UI logic.**
-- ⚡ Fun fact: **I enjoy turning complex UI behavior into clean, simple code.**
+<br/>
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h2>👻 Who Am I?</h2>
+      <p>
+        I am a <b>Computer Applications Student</b> (MCA) with a passion for building software. My journey started early, exploring code and creating small projects. I dove deep into the world of web development, specializing in <b>Full Stack Development</b>.
+      </p>
+      <p>
+        Currently, I am focused on mastering <b>Modern Web Technologies</b>. Despite studying the full ecosystem, my true strength and passion lie in the <b>Frontend</b>, where I can combine logic, creativity, and design.
+      </p>
+      <br/>
+      <h2>👾 A Little More About Me</h2>
+      <ul>
+         <li>🔭 I like to be surrounded by experienced people who challenge me to grow.</li>
+         <li>💻 Currently working on React & Node.js projects.</li>
+         <li>🤝 If you want to learn about Front-end, I'm always willing to help.</li>
+         <li>🧠 I have an interest in any large project that makes me think.</li>
+         <li>🎨 Lover of Minimalism.</li>
+      </ul>
+      <br/>
+      <div align="center">
+        <a href="https://open.spotify.com/user/314324343" target="_blank">
+          <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+        </a>
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c668b122046427.60d21a2c0f6fa.gif" alt="Ghost Animation" width="100%">
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<br/>
-
-## 💻 Tech Stack
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2>☁️ GitHub Status</h2>
 
 <br/>
 
-## 🚀 Featured Projects
-
-| Project                                                             | Description                                                 | Tech Stack    |
-| :------------------------------------------------------------------ | :---------------------------------------------------------- | :------------ |
-| **[Reelify](https://github.com/codebysrk/reelify)**                 | A modern short video platform inspired by Instagram Reels.  | HTML, CSS, JS |
-| **[Sheryians Clone](https://github.com/codebysrk/Sheryians-clone)** | Responsive clone of Sheryians Coding School website.        | HTML, CSS, JS |
-| **[Apple Clone](https://github.com/codebysrk/apple-clone)**         | Pixel-perfect recreation of the Apple homepage.             | HTML, CSS, JS |
-| **[Tally Counter](https://github.com/codebysrk/tally-counter)**     | Beautifully designed digital counter with calculator style. | HTML, CSS, JS |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebysrk&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysrk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="150" alt="languages graph"  />
+</div>
 
 <br/>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=codebysrk&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codebysrk&theme=neon&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebysrk&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysrk&theme=tokyonight&hide_border=true" alt="streak graph" />
 
 <br/>
+<br/>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebysrk/codebysrk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebysrk/codebysrk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codebysrk/codebysrk/output/github-contribution-grid-snake.svg">
-</picture>
+<h2>🛠️ My Stacks</h2>
 
 <br/>
 
-## 🌐 Socials
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nextjs,nodejs,express,mysql,mongodb,git,github,vscode&perline=8&theme=dark" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahrukhkhann)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/maishahrukh)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maishahrukhh@gmail.com)
+<br/>
+<br/>
+
+<h2>📓 My Best Repositories</h2>
 
 <br/>
 
-### ✍️ Random Dev Quote
+<div align="center">
+  <a href="https://github.com/codebysrk/reelify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebysrk&repo=reelify&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/codebysrk/Sheryians-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebysrk&repo=Sheryians-clone&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/codebysrk/apple-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebysrk&repo=apple-clone&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/codebysrk/tally-counter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codebysrk&repo=tally-counter&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=codebysrk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br/>
 <br/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=codebysrk&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <i>Let's connect and build something amazing!</i>
+</p>
 
 </div>
