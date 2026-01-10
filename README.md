@@ -8,189 +8,181 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:shahrukhkhann@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shahrukhkhann"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/codebysrk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/maishahrukh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:shahrukhkhann@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/shahrukhkhann"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/codebysrk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/maishahrukh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://instagram.com/maishahrukh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codebysrk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/codebysrk?label=Followers&style=social" alt="Followers" />
 </p>
 
----
+<br/>
 
-<!-- Section Divider -->
-<img src="./assets/section_divider.png" alt="divider" width="100%"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> About Me
 
-## 🧑‍💻 About Me
+```js
+const srk = {
+  pronouns: "He" | "Him",
+  role: "Full Stack Developer",
+  location: "India 🇮🇳",
+  currentFocus: "Web Development & AI/ML",
 
-```terminal
-┌──────────────────────────────────────────────────────────────────────┐
-│  > whoami                                                            │
-│                                                                      │
-│  Full Stack Developer | AI/ML Enthusiast | Open Source Contributor   │
-│                                                                      │
-│  > cat current_status.txt                                            │
-│                                                                      │
-│  🔭 Currently working on: Web Development & AI/ML Projects           │
-│  🌱 Learning: Deep Learning, Cloud Architecture, System Design       │
-│  💬 Ask me about: JavaScript, Python, React, Node.js, AI/ML          │
-│  ⚡ Fun fact: I code at night and debug during the day               │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+  skills: {
+    languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    frontend: ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "Tailwind"],
+    backend: ["Node.js", "Express.js", "Django", "REST APIs"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+    aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy"],
+    tools: ["Git", "Docker", "AWS", "Linux", "VS Code"],
+  },
+
+  currentlyLearning: ["Deep Learning", "Cloud Architecture", "System Design"],
+  askMeAbout: ["Web Dev", "AI/ML", "Open Source"],
+  funFact: "I code at night 🌙 and debug during the day ☀️",
+};
 ```
 
-- 🎯 I'm passionate about building **scalable applications** and **intelligent systems**
-- 🤝 Open to collaborate on **innovative projects** and **open source contributions**
-- 📫 Reach me at: **shahrukhkhann@outlook.com**
+<br/>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
-<!-- Section Divider -->
-<img src="./assets/section_divider.png" alt="divider" width="100%"/>
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### AI/ML & Data Science
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### DevOps & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<!-- Section Divider -->
-<img src="./assets/section_divider.png" alt="divider" width="100%"/>
-
-## 📊 GitHub Stats
+### 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebysrk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysrk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&perline=4" />
 </p>
 
+</td>
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysrk&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,sass&perline=3" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql&perline=3" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### 🤖 AI/ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,vscode&perline=3" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### 🔥 Others
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=firebase,graphql,redis,postman&perline=2" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codebysrk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebysrk&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebysrk&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysrk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
----
-
-<!-- Section Divider -->
-<img src="./assets/section_divider.png" alt="divider" width="100%"/>
+<br/>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebysrk&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codebysrk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
----
+<br/>
 
-<!-- Section Divider -->
-<img src="./assets/section_divider.png" alt="divider" width="100%"/>
+## 📈 Contribution Graph
 
-## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebysrk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%"/>
+</p>
+
+<br/>
+
+## 🐍 Watch the Snake Eat My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebysrk/codebysrk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebysrk/codebysrk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codebysrk/codebysrk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codebysrk/codebysrk/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
----
+<br/><br/>
 
-<!-- Section Divider -->
-<img src="./assets/section_divider.png" alt="divider" width="100%"/>
-
-## 📫 Connect With Me
+## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/codebysrk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/shahrukhkhann" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shahrukhkhann@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/maishahrukh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/maishahrukh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <i>I'm always open to interesting conversations and collaboration opportunities!</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/codebysrk"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>&nbsp;
+  <a href="https://linkedin.com/in/shahrukhkhann"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:shahrukhkhann@outlook.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/maishahrukh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
+  <a href="https://instagram.com/maishahrukh"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<br/>
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/codebysrk">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
 
----
-
-<!-- Section Divider -->
-<img src="./assets/section_divider.png" alt="divider" width="100%"/>
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/codebysrk" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"/>
-  </a>
-</p>
+<br/>
 
 ---
 
@@ -200,9 +192,9 @@
 </p>
 
 <p align="center">
-  <b>⭐ Star my repositories if you find them useful! ⭐</b>
+  <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b>
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/codebysrk">SRK</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
