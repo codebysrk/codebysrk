@@ -1,3 +1,8 @@
+<!-- Top Waving Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahrukh%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Building%20Performance%20Driven%20Apps&descAlignY=52&descSize=18"/>
+</p>
+
 <!-- Hero Banner -->
 <p align="center">
   <img src="./assets/hero_banner.png" alt="Shahrukh Khan - MERN Stack Developer" width="100%"/>
@@ -25,7 +30,7 @@
   <img src="https://img.shields.io/github/followers/codebysrk?label=Followers&style=social" alt="Followers" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -57,7 +62,7 @@ const shahrukh = {
 };
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -97,7 +102,7 @@ const shahrukh = {
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -111,7 +116,7 @@ const shahrukh = {
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysrk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -119,7 +124,7 @@ const shahrukh = {
   <img src="https://github-profile-trophy.vercel.app/?username=codebysrk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 📈 Contribution Graph
 
@@ -127,7 +132,7 @@ const shahrukh = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebysrk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -139,7 +144,7 @@ const shahrukh = {
   </picture>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🤝 Let's Connect
 
@@ -159,7 +164,7 @@ const shahrukh = {
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
